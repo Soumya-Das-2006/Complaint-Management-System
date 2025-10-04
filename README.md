@@ -186,7 +186,7 @@ If you find this project helpful, please consider giving it a star!
 [![Star History Chart](https://api.star-history.com/svg?repos=yourusername/complaint-management-system&type=Date)](https://star-history.com/#yourusername/complaint-management-system)
 
 **Need Help?** 
-- 📧 Email: support@yourdomain.com
+- 📧 Email: soumyadastopper@gmail.com
 - 🐛 [Report Issues](https://github.com/yourusername/complaint-management-system/issues)
 - 💬 [Join Discussions](https://github.com/yourusername/complaint-management-system/discussions)
 
